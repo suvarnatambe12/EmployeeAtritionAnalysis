@@ -1,4 +1,3 @@
 # EmployeeAtritionAnalysis
-employee Attrition Analysis Using R Studio
-
+employee Attrition Analysis 
 Predicted the best fit model by calculating accuracy of each model. 
